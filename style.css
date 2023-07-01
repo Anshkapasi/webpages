@@ -1,19 +1,29 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Ansh Kapasi
+ *UnityID: apkapasi
+ *Date: 06-30-2023
+ *Assignment: IA-4
+ *Description: IA-4 html and styling
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size: 16px;
+    color: #FF00FF;
 }
 
-.class {
-    property: value;
+p2 {
+    font-family: Times;
+    font-size: 16px;
+    color: #0000FF;
 }
 
-#id {
-    property:value;
+.table-border {
+  border-spacing: 15px;
+  border: 1px solid #FFFFFF;
+  }
+  
+#photo-resize {
+    max-width: 200px;
+    max-height: 250px;
 }
